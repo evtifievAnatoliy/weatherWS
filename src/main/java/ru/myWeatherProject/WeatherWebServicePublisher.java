@@ -34,7 +34,6 @@ public class WeatherWebServicePublisher {
 	        // и по адресу, указанному в первом аргументе,
 	        // запускаем веб-сервис, передаваемый во втором аргументе
 	    	final String URL =  "http://" + args[0] + ":" + args[1] + "/wss/weather"; 
-			logger.error("Current URL: " + URL);
 	        Endpoint.publish(URL, new WeatherWebServiceImpl());
 	        logger.info(URL + " сервер запущен.");
     	
