@@ -1,0 +1,6 @@
+2021-07-29 10:02:26 ERROR WeatherWebServicePublisher:37 - Current URL: http://localhost:8083/wss/weather
+2021-07-29 10:02:26 INFO  UpdateTemperatureDates:43 - 2021-07-29T10:02:26.487481: Update success
+2021-07-29 10:02:26 INFO  WeatherWebServicePublisher:39 - http://localhost:8083/wss/weather сервер запущен.
+2021-07-29 10:03:26 INFO  UpdateTemperatureDates:43 - 2021-07-29T10:03:26.668630100: Update success
+2021-07-29 10:04:43 INFO  UpdateTemperatureDates:43 - 2021-07-29T10:04:43.357403900: Update success
+2021-07-29 10:04:43 INFO  WeatherWebServicePublisher:38 - http://localhost:8083/wss/weather сервер запущен.
