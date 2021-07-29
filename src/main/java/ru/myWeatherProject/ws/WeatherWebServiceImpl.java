@@ -6,7 +6,8 @@ import java.time.format.DateTimeParseException;
 import javax.jws.WebService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import logic.TemperatureDates;
+
+import ru.myWeatherProject.logic.TemperatureDates;
 
 // но здесь используется с параметром endpointInterface,
 // указывающим полное имя класса интерфейса нашего веб-сервиса

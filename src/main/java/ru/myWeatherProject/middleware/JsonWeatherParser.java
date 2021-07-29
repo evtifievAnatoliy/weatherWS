@@ -1,4 +1,4 @@
-package myWeatherProject.middleware;
+package ru.myWeatherProject.middleware;
 
 import java.time.LocalDate;
 import java.time.LocalTime;

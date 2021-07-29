@@ -1,4 +1,4 @@
-package logic;
+package ru.myWeatherProject.logic;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
