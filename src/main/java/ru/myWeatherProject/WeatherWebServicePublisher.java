@@ -12,7 +12,7 @@ import ru.myWeatherProject.logic.UpdateTemperatureDates;
 import ru.myWeatherProject.ws.WeatherWebServiceImpl;
 
 public class WeatherWebServicePublisher {
-    public static void main(String... args) {
+    public static void main(String[] args) {
 //		args[]
 //    	localhost
 //    	8083

@@ -1,0 +1,10 @@
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\middleware\OpenweathermapImpl.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\WeatherWebServicePublisher.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\ws\WeatherWebServiceImpl.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\ws\IWeatherWebService.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\models\TemperatureTime.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\logic\UpdateTemperatureDates.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\middleware\IForeinWebServiceWeather.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\logic\TemperatureDates.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\models\TemperatureDate.java
+D:\Java\WeatherInTheCity\weather\src\main\java\ru\myWeatherProject\middleware\JsonWeatherParser.java

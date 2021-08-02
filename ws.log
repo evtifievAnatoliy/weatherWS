@@ -4,3 +4,9 @@
 2021-07-29 10:03:26 INFO  UpdateTemperatureDates:43 - 2021-07-29T10:03:26.668630100: Update success
 2021-07-29 10:04:43 INFO  UpdateTemperatureDates:43 - 2021-07-29T10:04:43.357403900: Update success
 2021-07-29 10:04:43 INFO  WeatherWebServicePublisher:38 - http://localhost:8083/wss/weather сервер запущен.
+2021-08-01 19:23:55 INFO  UpdateTemperatureDates:43 - 2021-08-01T19:23:55.100239500: Update success
+2021-08-01 19:23:55 INFO  WeatherWebServicePublisher:38 - http://localhost:8083/wss/weather сервер запущен.
+2021-08-01 19:44:56 INFO  UpdateTemperatureDates:43 - 2021-08-01T19:44:56.991759700: Update success
+2021-08-01 19:44:57 INFO  WeatherWebServicePublisher:38 - http://localhost:8083/wss/weather сервер запущен.
+2021-08-01 20:36:56 ERROR WeatherWebServicePublisher:43 - Args[0] - сервер, Args[1] - порт, Args[2] - ключ авторизации Openweathermap, Args[3] - частота обновления в миллисеундах 
+2021-08-02 08:22:53 ERROR WeatherWebServicePublisher:43 - Args[0] - сервер, Args[1] - порт, Args[2] - ключ авторизации Openweathermap, Args[3] - частота обновления в миллисеундах 
